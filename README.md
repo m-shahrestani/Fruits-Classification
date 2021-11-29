@@ -1,1 +1,1 @@
-CN Project DNS client
+CI Project NN for classification
